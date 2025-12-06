@@ -1,0 +1,23 @@
+{
+  "name": "starlinkapi",
+  "version": "1.0.0",
+  "description": "simple console app to show data about starlink using api",
+  "homepage": "https://github.com/tomasz-niemczycki/StarlinkData#readme",
+  "bugs": {
+    "url": "https://github.com/tomasz-niemczycki/StarlinkData/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasz-niemczycki/StarlinkData.git"
+  },
+  "license": "ISC",
+  "author": "Tomasz Niemczycki",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
